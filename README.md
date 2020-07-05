@@ -1,14 +1,14 @@
 Super Mario
 ===========
-This project implements a simplified version of Super Mario in pure C without any additional graphics library.
+This project implements a simplified version of Super Mario in C without any additional graphics library.
 
-For details of the implementation, please refer to [wiki](https://github.com/halfvim/SuperMario/wiki).
+Refer to this [post](https://blog.yanchen.im/2013/04/09/super-mario-in-c/) for Q&A.
 
 Turbo C, which is included in the project in folder TC, and DOSBox are needed to compile and run this program.
 
 To compile and run:
 
-1. Download and install DOSBox
+- Download and install DOSBox
 - Mount the root folder of this project as C: in DOSBox
    
    ```
@@ -34,9 +34,8 @@ To compile and run:
    ```
    GDC.EXE
    ```
-- Use Ctrl+F12 and Ctrl+F11 to adjust CPU cycles to around 20000
-- Wait for around half a minute to load the game
-- Enjoy!
+- Use Ctrl+F12 and Ctrl+F11 to adjust CPU cycles to around 20000;
+- Wait for around half a minute to load the game.
 
 #### Developers
 - Yan Chen
